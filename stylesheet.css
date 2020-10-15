@@ -30,7 +30,7 @@ li {
 	padding-top: 180px;
 	padding-bottom: 100px;
 	color: white;
-	background-image: url(https://raw.githubusercontent.com/mrbee404/jalan.in/main/bgimage.jpg);
+	background-image: url(../image/bgimage.jpg);
 	background-size: cover;
 	text-align: center;
 }
